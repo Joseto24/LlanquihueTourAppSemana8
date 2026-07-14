@@ -20,9 +20,9 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 ```plaintext
 📁 src/
-├── app/         # Clase principal con el método main
-├── model/       # Clases de dominio (Tour)
-├── Service/        # Clases para la carga y lectura de archivos .txt
+├── ui/         # Clase principal con el método main
+├── model/       # Clases de dominio (Persona)
+├── data/        # Clases para la carga y lectura de archivos .txt
 ├── utils/       # Utilidades y validaciones
 ````
 
@@ -35,7 +35,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone [https://github.com/Joseto24/LlanquihueTourAppSemana5.git]
+git clone [https://github.com/Joseto24/LlanquihueTourAppSemana8.git]
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -49,10 +49,10 @@ git clone [https://github.com/Joseto24/LlanquihueTourAppSemana5.git]
 
 ---
 
-**Repositorio GitHub:** \[https://github.com/Joseto24/LlanquihueTourAppSemana5.git]
-**Fecha de entrega:** \[22/06/2026]
+**Repositorio GitHub:** \[https://github.com/Joseto24/LlanquihueTourAppSemana8.git]
+**Fecha de entrega:** \[13/07/2026]
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación 2
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación 3
 
